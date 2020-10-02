@@ -1,6 +1,6 @@
 @import url("../vendor/normalize.css");
 
-@import url("../fonts/Inter_Web/inter.css");
+@import url("../fonts/font-inter.css");
 
 @import url("../blocks/root/root.css");
 
@@ -20,6 +20,7 @@
 @import url("../blocks/intro/__title/intro__title.css");
 @import url("../blocks/intro/__text/intro__text.css");
 @import url("../blocks/intro/__list/intro__list.css");
+@import url("../blocks/intro/__list/_value/intro__list_value.css");
 
 @import url("../blocks/photo-grid/photo-grid.css");
 @import url("../blocks/photo-grid/__item/photo-grid__item.css");
