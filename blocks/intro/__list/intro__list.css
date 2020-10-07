@@ -7,3 +7,9 @@
   font-size: 12px;
   font-weight: bold;
 }
+
+@media (max-width: 320px) {
+  .intro__list {
+    max-width: 288px;
+  }
+}

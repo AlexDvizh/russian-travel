@@ -6,3 +6,11 @@
   max-width: 560px;
   margin: 0;
 }
+
+@media (max-width: 320px) {
+  .cover__title {
+  max-width: 288px;
+  font-size: 32px;
+  line-height: 35px;
+  }
+}

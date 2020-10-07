@@ -9,3 +9,21 @@
   margin-top: 56px;
   margin-bottom: 32px;
 }
+
+@media (max-width: 768px) {
+  .lead__title {
+    width: calc(100% - 48px);
+  }
+}
+
+@media (max-width: 320px) {
+  .lead__title {
+    width: 288px;
+    height: 88px;
+    line-height: 44px;
+    font-size: 40px;
+    margin-top: 48px;
+    margin-bottom: 16px;
+  }
+}
+

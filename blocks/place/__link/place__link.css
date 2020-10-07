@@ -4,3 +4,10 @@
   font-size: 18px;
   line-height: 22px;
 }
+
+.place__link:hover {
+  color:#AAAAAA;
+  opacity: 0.8;
+  visibility: visible;
+  transition-delay: 0s;
+}

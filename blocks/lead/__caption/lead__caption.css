@@ -6,3 +6,9 @@
   font-weight: 400;
   letter-spacing: 2px;
 }
+
+@media (max-width: 768px) {
+  .lead__caption  {
+    margin-left: 24px;
+  }
+}

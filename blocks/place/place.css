@@ -6,3 +6,27 @@
   max-width: 984px;
   margin-top: 80px;
 }
+
+@media (max-width: 1024px) {
+  .place {
+    width: calc(100% - 96px);
+    column-gap: 32px;
+  }
+}
+
+@media (max-width: 768px) {
+  .place  {
+    grid-template-columns: minmax(min-content, 340px) 1fr;
+    width: calc(100% - 48px);
+    column-gap: 28px;
+  }
+}
+
+@media (max-width: 320px) {
+  .place  {
+    grid-template-columns: minmax(min-content, 320px) 1fr;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+  }
+}
