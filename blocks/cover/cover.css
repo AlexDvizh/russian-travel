@@ -21,7 +21,7 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 420px) {
   .cover {
     max-height: 200px;
     background-size: 100% 100%;

@@ -16,7 +16,7 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 420px) {
   .lead__title {
     width: 288px;
     height: 88px;
