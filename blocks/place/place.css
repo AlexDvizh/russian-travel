@@ -8,6 +8,7 @@
 
 @media (max-width: 1279px) {
   .place {
+    grid-template-columns: 440px 1fr;
     width: calc(100% - 96px);
     column-gap: 32px;
   }
