@@ -6,9 +6,8 @@
   font-weight: lighter;
 }
 
-@media (max-width: 420px) {
+@media (max-width: 767px) {
   .intro__text {
-  max-width: 288px;
-  margin-top: 40px;
+    margin-top: 40px;
   }
 }

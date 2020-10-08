@@ -1,0 +1,21 @@
+.lead__wrap-image {
+
+}
+
+@media (max-width: 1279px) {
+  .lead__wrap-image {
+    width: calc(100% - 96px);
+  }
+}
+
+@media (max-width: 1023px) {
+  .lead__wrap-image {
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .lead__wrap-image {
+    width: 100%;
+  }
+}

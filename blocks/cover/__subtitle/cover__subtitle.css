@@ -7,10 +7,9 @@
   margin-top: 32px;
 }
 
-@media (max-width: 420px) {
+@media (max-width: 767px) {
   .cover__subtitle {
     max-width: 288px;
-    max-height: 48px;
     font-size: 14px;
     line-height: 16px;
     margin-top: 16px;

@@ -8,13 +8,13 @@
   margin-top: 92px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1023px) {
   .photo-grid  {
     width: calc(100% - 48px);
   }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 767px) {
   .photo-grid  {
     margin-top: 64px;
     width: calc(100% - 32px);

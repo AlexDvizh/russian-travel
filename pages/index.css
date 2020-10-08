@@ -4,15 +4,19 @@
 
 @import url("../blocks/root/root.css");
 
+@import url("../blocks/page/page.css");
+
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__logo/heafer__logo.css");
 @import url("../blocks/header/__lang-links/header__lang-links.css");
 @import url("../blocks/header/__lang-link/header__lang-link.css");
 @import url("../blocks/header/__lang-link/_underline/header__lang-link_underline.css");
+@import url("../blocks/header/__link-style/header__link-style.css");
 
 @import url("../blocks/lead/lead.css");
 @import url("../blocks/lead/__title/lead__title.css");
 @import url("../blocks/lead/__subtitle/lead__subtitle.css");
+@import url("../blocks/lead/__wrap-image/lead__wrap-image.css");
 @import url("../blocks/lead/__image/lead__image.css");
 @import url("../blocks/lead/__caption/lead__caption.css");
 
@@ -20,7 +24,7 @@
 @import url("../blocks/intro/__title/intro__title.css");
 @import url("../blocks/intro/__text/intro__text.css");
 @import url("../blocks/intro/__list/intro__list.css");
-@import url("../blocks/intro/__list/_value/intro__list_value.css");
+@import url("../blocks/intro/__list-value/intro__list-value.css");
 
 @import url("../blocks/photo-grid/photo-grid.css");
 @import url("../blocks/photo-grid/__item/photo-grid__item.css");
